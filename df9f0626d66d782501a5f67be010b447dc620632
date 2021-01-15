@@ -52,6 +52,29 @@
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "406caa8f_7d65d744",
+        "filename": "bubbleSort.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1018790
+      },
+      "writtenOn": "2021-01-15T19:14:12Z",
+      "side": 1,
+      "message": "good variable naming!",
+      "range": {
+        "startLine": 5,
+        "startChar": 21,
+        "endLine": 5,
+        "endChar": 22
+      },
+      "revId": "df9f0626d66d782501a5f67be010b447dc620632",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "1f59b895_bc3961ef",
